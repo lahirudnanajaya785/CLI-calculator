@@ -25,6 +25,9 @@ public class SimpleCalculator {
 
           case '/':
             return left / right;
+               
+          case '%':
+             return left % right;  
 
 
 
