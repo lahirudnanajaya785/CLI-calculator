@@ -19,6 +19,8 @@ public class SimpleCalculator {
             return left - right;
          case '*':
             return left * right;
+         case '%':
+            return left % right;
 
        
         }
