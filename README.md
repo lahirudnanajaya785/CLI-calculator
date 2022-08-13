@@ -1,3 +1,2 @@
-d# CLI-calculator 
-gooo
-gafhshagsajs
+CLI-calculator using JAVA
+
